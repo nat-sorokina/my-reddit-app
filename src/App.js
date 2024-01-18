@@ -8,7 +8,7 @@ function App() {
 
   useEffect(() => {
     fetch("https://www.reddit.com/r/" + subreddit + ".json").then(res => {
-      if (res.status != 200) {
+      if (res.status !== 200) {
         console.log("ERROR");
         return;
       }
