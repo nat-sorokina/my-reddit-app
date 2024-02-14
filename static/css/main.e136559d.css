@@ -1,0 +1,2 @@
+*{box-sizing:border-box;font-family:montserrat,sans-serif;margin:0;padding:0}header{background-image:linear-gradient(90deg,#fe4880,#ffce00);box-shadow:0 3px 6px #0003;padding:15px}header input{background-color:#fff;border:none;display:inline-block;font-size:28px;font-style:italic;font-weight:600;outline:none}.articles{padding:10px}article{padding:5px}article a{color:#000;font-size:18px;text-decoration:none}article:nth-child(2n){background-color:#f3f3f3}article:hover{background-color:pink}
+/*# sourceMappingURL=main.e136559d.css.map*/

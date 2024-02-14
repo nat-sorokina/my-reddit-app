@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/my-reddit-app/static/css/main.e136559d.css",
+    "main.js": "/my-reddit-app/static/js/main.853fffe9.js",
+    "index.html": "/my-reddit-app/index.html",
+    "main.e136559d.css.map": "/my-reddit-app/static/css/main.e136559d.css.map",
+    "main.853fffe9.js.map": "/my-reddit-app/static/js/main.853fffe9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e136559d.css",
+    "static/js/main.853fffe9.js"
+  ]
+}
